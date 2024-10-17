@@ -105,8 +105,3 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 - 💼 LinkedIn: [Khanh Rom](https://www.linkedin.com/in/khanh-romvn-247866221)
 - 🌐 Facebook: [facebook.com/khanhromvn](https://www.facebook.com/khanhromvn)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhanhRomVN&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
