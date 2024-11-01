@@ -74,21 +74,6 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhRomVN&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🌐 Programming Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhRomVN&layout=donut&langs_count=20&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85149&text_color=ffffff&icon_color=58A6FF&card_width=400&custom_title=🔥%20Most%20Used%20Languages" alt="Programming Languages" />
-</div>
-
-<!-- Thêm các badge ngôn ngữ lập trình -->
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <!-- Thêm các ngôn ngữ/công nghệ khác mà bạn sử dụng -->
-</div>
-
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
