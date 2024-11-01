@@ -74,6 +74,12 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhRomVN&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+## 🌐 Programming Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhRomVN&layout=donut&langs_count=20&theme=radical&hide_border=true" alt="Programming Languages" />
+</div>
+
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
