@@ -77,6 +77,77 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 312.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 36 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+🌆 Daytime                271 commits         ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌃 Evening                378 commits         ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌙 Night                  150 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   210 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Tuesday                  159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Thursday                 68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Friday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Saturday                 149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Sunday                   184 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/11/2024 16:13:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
