@@ -18,9 +18,9 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           fetch-depth: 0
-          persist-credentials: false # Thêm dòng này
+          persist-credentials: false
       
-      - name: Setup Git Config # Thêm bước này
+      - name: Setup Git Config
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -38,11 +38,13 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROFILE_VIEWS: "True"
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TIMELINE: "False"
+          SHOW_TITLE: "False"
           COMMIT_MESSAGE: "Updated WakaTime Stats"
           SECTION_NAME: "waka"
           COMMIT_BY_ME: "false"
