@@ -77,15 +77,15 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-🌆 Daytime                282 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌃 Evening                386 commits         ██████████░░░░░░░░░░░░░░░   40.76 % 
-🌙 Night                  150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+🌞 Morning                129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+🌆 Daytime                282 commits         ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+🌃 Evening                393 commits         ██████████░░░░░░░░░░░░░░░   41.19 % 
+🌙 Night                  150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 ```
 
 
@@ -121,7 +121,15 @@ Jupyter Notebook         4 repos             ███░░░░░░░░�
 Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
- Last Updated on 16/11/2024 12:54:36 UTC
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/11/2024 14:16:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
