@@ -121,14 +121,6 @@ Jupyter Notebook         4 repos             ███░░░░░░░░�
 Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
-
-
  Last Updated on 16/11/2024 12:54:36 UTC
 <!--END_SECTION:waka-->
 
