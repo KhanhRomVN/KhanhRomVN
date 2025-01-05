@@ -116,24 +116,16 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Go                       4 hrs 52 mins       █████████████████░░░░░░░░   66.70 % 
-Dart                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-TypeScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   7 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-_HackerLearn             5 hrs 22 mins       ██████████████████░░░░░░░   73.60 % 
-HackerLearn              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-HackerLearnAdmin         52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-HackerLearnBE            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-compiler_service         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    7 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +145,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2025 18:23:08 UTC
+ Last Updated on 05/01/2025 20:19:05 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
