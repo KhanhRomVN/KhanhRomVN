@@ -116,16 +116,23 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       6 hrs 3 mins        █████████████████░░░░░░░░   69.24 % 
+Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+YAML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   8 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HackerLearnBE            8 hrs 23 mins       ████████████████████████░   95.97 % 
+_HackerLearn             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+hackerlearn-loadbalancer 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+HackerLearn              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +152,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2025 18:22:55 UTC
+ Last Updated on 18/01/2025 20:17:58 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
