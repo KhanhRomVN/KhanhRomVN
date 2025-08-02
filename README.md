@@ -98,7 +98,7 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **I'm an Early 🐤** 
 
@@ -151,7 +151,7 @@ Java                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 08:29:13 UTC
+ Last Updated on 02/08/2025 10:25:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
