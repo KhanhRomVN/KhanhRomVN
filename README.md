@@ -103,9 +103,9 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                793 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+🌞 Morning                793 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
 🌆 Daytime                1243 commits        ████████░░░░░░░░░░░░░░░░░   31.73 % 
-🌃 Evening                1478 commits        █████████░░░░░░░░░░░░░░░░   37.73 % 
+🌃 Evening                1479 commits        █████████░░░░░░░░░░░░░░░░   37.75 % 
 🌙 Night                  403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 ```
 
@@ -155,7 +155,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 14:22:21 UTC
+ Last Updated on 19/09/2025 16:27:00 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
