@@ -103,9 +103,9 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                685 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌞 Morning                685 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 🌆 Daytime                970 commits         ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-🌃 Evening                1315 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌃 Evening                1316 commits        ██████████░░░░░░░░░░░░░░░   40.10 % 
 🌙 Night                  311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 
@@ -153,7 +153,7 @@ C#                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2025 01:24:18 UTC
+ Last Updated on 08/11/2025 12:38:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
