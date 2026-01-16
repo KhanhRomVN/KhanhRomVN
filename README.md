@@ -98,15 +98,15 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                577 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-🌆 Daytime                715 commits         ████████░░░░░░░░░░░░░░░░░   30.81 % 
-🌃 Evening                886 commits         ██████████░░░░░░░░░░░░░░░   38.17 % 
-🌙 Night                  143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+🌞 Morning                510 commits         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+🌆 Daytime                584 commits         ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+🌃 Evening                758 commits         ██████████░░░░░░░░░░░░░░░   38.63 % 
+🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
 
 
@@ -116,22 +116,16 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               30 mins             ███████████████████░░░░░░   76.22 % 
-Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Zen                      20 mins             █████████████░░░░░░░░░░░░   51.96 % 
-FluencyStudio            9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Speak                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Reverse                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,7 +145,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 18:39:49 UTC
+ Last Updated on 16/01/2026 01:47:31 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
