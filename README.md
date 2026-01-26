@@ -98,15 +98,15 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                577 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌆 Daytime                719 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌃 Evening                904 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+🌞 Morning                579 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌆 Daytime                721 commits         ████████░░░░░░░░░░░░░░░░░   30.63 % 
+🌃 Evening                904 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌙 Night                  150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 
 
@@ -145,7 +145,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 01:55:13 UTC
+ Last Updated on 26/01/2026 06:39:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
