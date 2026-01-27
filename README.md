@@ -103,10 +103,10 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                505 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-🌆 Daytime                581 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-🌃 Evening                770 commits         ██████████░░░░░░░░░░░░░░░   39.09 % 
-🌙 Night                  114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+🌞 Morning                573 commits         ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌆 Daytime                712 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌃 Evening                898 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌙 Night                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 
 
@@ -116,16 +116,16 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Zen                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +145,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 18:37:49 UTC
+ Last Updated on 27/01/2026 01:52:29 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
