@@ -116,16 +116,18 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 6 mins         ████████████████████░░░░░   81.67 % 
+Python                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Zen                      1 hr 6 mins         ████████████████████░░░░░   81.67 % 
+voice-chat               14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +147,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 18:37:31 UTC
+ Last Updated on 15/02/2026 02:12:41 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
