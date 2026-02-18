@@ -98,7 +98,7 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -116,18 +116,19 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               8 hrs 55 mins       ██████████████░░░░░░░░░░░   54.83 % 
-Python                   7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
+TypeScript               13 hrs 38 mins      ██████████████░░░░░░░░░░░   57.36 % 
+Python                   10 hrs 8 mins       ███████████░░░░░░░░░░░░░░   42.63 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zen                      8 hrs 55 mins       ██████████████░░░░░░░░░░░   54.83 % 
-voice-chat               7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
+Zen                      13 hrs 38 mins      ██████████████░░░░░░░░░░░   57.36 % 
+voice-chat               10 hrs 8 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
 
 💻 Operating System: 
-Linux                    16 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +148,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2026 18:59:59 UTC
+ Last Updated on 18/02/2026 02:09:49 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
