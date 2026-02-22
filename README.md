@@ -98,7 +98,7 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -116,22 +116,22 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               19 hrs 12 mins      ███████████████░░░░░░░░░░   59.50 % 
-Python                   12 hrs              █████████░░░░░░░░░░░░░░░░   37.22 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               20 hrs 29 mins      ███████████████░░░░░░░░░░   61.48 % 
+Python                   11 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   35.34 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zen                      19 hrs 13 mins      ███████████████░░░░░░░░░░   59.54 % 
-voice-chat               13 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
+Zen                      20 hrs 30 mins      ███████████████░░░░░░░░░░   61.52 % 
+voice-chat               12 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   38.47 % 
 Elara                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    32 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,7 +151,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2026 18:37:51 UTC
+ Last Updated on 22/02/2026 02:08:13 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
