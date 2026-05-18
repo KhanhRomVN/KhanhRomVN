@@ -100,6 +100,34 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                418 commits         ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+🌆 Daytime                449 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+🌃 Evening                601 commits         ██████████░░░░░░░░░░░░░░░   38.85 % 
+🌙 Night                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -117,7 +145,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 19:09:28 UTC
+ Last Updated on 18/05/2026 03:39:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
