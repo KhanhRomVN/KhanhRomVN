@@ -103,10 +103,10 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                421 commits         ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-🌆 Daytime                456 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌃 Evening                603 commits         ██████████░░░░░░░░░░░░░░░   38.60 % 
-🌙 Night                  82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+🌞 Morning                418 commits         ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+🌆 Daytime                449 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌃 Evening                601 commits         ██████████░░░░░░░░░░░░░░░   38.82 % 
+🌙 Night                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 
 
@@ -116,16 +116,20 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 21 mins       █████████████████████░░░░   83.46 % 
+Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Zen - AI Agent VSCode Ext4 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +149,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 20:15:11 UTC
+ Last Updated on 21/05/2026 03:39:51 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
