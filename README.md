@@ -100,36 +100,6 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                325 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-🌆 Daytime                319 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-🌃 Evening                428 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JSON                     1 hr 29 mins        ██████████████████████░░░   87.85 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-
-🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Zen - AI Agent VSCode Ext1 hr 29 mins        ██████████████████████░░░   87.85 % 
-Elara - Free AI          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-
-💻 Operating System: 
-Linux                    1 hr 42 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -147,7 +117,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 15:54:33 UTC
+ Last Updated on 28/05/2026 20:23:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
