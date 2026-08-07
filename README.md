@@ -98,7 +98,43 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                442 commits         ████████░░░░░░░░░░░░░░░░░   30.01 % 
+🌆 Daytime                424 commits         ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+🌃 Evening                553 commits         █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -117,7 +153,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:00:09 UTC
+ Last Updated on 07/08/2026 02:48:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
