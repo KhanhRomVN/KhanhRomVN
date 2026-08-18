@@ -100,15 +100,15 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                443 commits         ████████░░░░░░░░░░░░░░░░░   30.22 % 
-🌆 Daytime                422 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-🌃 Evening                549 commits         █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+🌞 Morning                452 commits         ████████░░░░░░░░░░░░░░░░░   30.17 % 
+🌆 Daytime                435 commits         ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+🌃 Evening                557 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
+🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 
 
@@ -153,7 +153,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 06:42:50 UTC
+ Last Updated on 18/08/2026 12:44:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
