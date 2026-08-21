@@ -105,10 +105,10 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                515 commits         ████████░░░░░░░░░░░░░░░░░   30.37 % 
-🌆 Daytime                495 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌃 Evening                632 commits         █████████░░░░░░░░░░░░░░░░   37.26 % 
-🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+🌞 Morning                514 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌆 Daytime                490 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+🌃 Evening                625 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 
@@ -139,11 +139,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            █████████████░░░░░░░░░░░░   52.00 % 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               12 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -153,7 +153,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 01:15:01 UTC
+ Last Updated on 21/08/2026 06:44:15 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
