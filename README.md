@@ -105,9 +105,9 @@ I'm a multidisciplinary expert with a passion for technology and security. My ex
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                610 commits         ████████░░░░░░░░░░░░░░░░░   30.27 % 
-🌆 Daytime                605 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
-🌃 Evening                746 commits         █████████░░░░░░░░░░░░░░░░   37.02 % 
+🌞 Morning                610 commits         ████████░░░░░░░░░░░░░░░░░   30.26 % 
+🌆 Daytime                605 commits         ████████░░░░░░░░░░░░░░░░░   30.01 % 
+🌃 Evening                747 commits         █████████░░░░░░░░░░░░░░░░   37.05 % 
 🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 
@@ -139,11 +139,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               13 repos            █████████████░░░░░░░░░░░░   52.00 % 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -153,7 +153,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 11:29:34 UTC
+ Last Updated on 27/09/2026 16:28:48 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
