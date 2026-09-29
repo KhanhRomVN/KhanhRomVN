@@ -1,166 +1,101 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=450&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+KhanhRomVN;Network+Security+%7C+Fullstack+Dev+%7C+AI%2FML" alt="Typing SVG" />
-</div>
+<h1 align="center">Khanh · KhanhRomVN</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khanh-romvn-247866221">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/khanhromvn">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:khanhromvn@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <b>Security-minded Fullstack Engineer</b><br/>
+  Building secure, scalable systems across web, mobile, cloud and AI/ML.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khanh-romvn-247866221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:khanhromvn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.facebook.com/khanhromvn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20VN-8C43EA?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+---
+
+## 👨‍💻 About
+
+I work at the intersection of **software engineering** and **security**. I design and ship fullstack products, harden them against real-world threats, and increasingly augment them with machine learning.
+
+- 🔭 **Currently exploring:** NLP · Rust · Reverse Engineering
+- 🤝 **Collaborating on:** open-source projects
+- 💬 **Ask me about:** fullstack architecture, application security, DevOps, AI/ML
+- ⚡ **Approach:** secure by design, automate everything, keep it simple
+
+## 🧭 Focus Areas
+
+| | Area | What I do |
+|---|------|-----------|
+| 🌐 | **Fullstack Web & Mobile** | End-to-end products, API design, cross-platform apps |
+| 🛡️ | **Cyber Security** | Penetration testing, secure architecture, threat modeling |
+| 🔬 | **Reverse Engineering & Malware Analysis** | Low-level analysis, understanding how threats work to defend against them |
+| ☁️ | **DevOps & Cloud** | CI/CD, containers, infrastructure as code, multi-cloud |
+| 🤖 | **AI / ML** | Machine learning, deep learning, NLP |
+| 🗄️ | **Data & Performance** | Database design and optimization, caching, search, messaging |
+
+## 🧰 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,py,go,rust,cpp,java,dart,ruby,powershell&perline=9" alt="Languages"/>
+</p>
+
+**Backend, Data & Messaging**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgres,mongodb,redis,elasticsearch,rabbitmq&perline=9" alt="Backend and data"/>
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux&perline=11" alt="Cloud and DevOps"/>
+</p>
+
+**AI / ML**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&perline=9" alt="AI and ML"/>
+</p>
+
+**Security Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,burpsuite&perline=9" alt="Security tools"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white" alt="Nmap"/>
+</p>
+
+## 📌 Featured Projects
+
+<!--
+  Replace the placeholders below with your best 4–6 repositories.
+  Tip: pin the same repos on your GitHub profile for consistency.
+-->
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**project-one**](https://github.com/KhanhRomVN/project-one) | One-line value proposition: what problem it solves. | `TypeScript` `PostgreSQL` |
+| [**project-two**](https://github.com/KhanhRomVN/project-two) | One-line value proposition: what problem it solves. | `Python` `PyTorch` |
+| [**project-three**](https://github.com/KhanhRomVN/project-three) | One-line value proposition: what problem it solves. | `Rust` |
+| [**project-four**](https://github.com/KhanhRomVN/project-four) | One-line value proposition: what problem it solves. | `Dart` `Go` |
+
+## 📈 GitHub
+
+<p align="center">
+  <a href="https://github.com/KhanhRomVN">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=KhanhRomVN&show_icons=true&count_private=true&hide=issues&hide_border=true&bg_color=0D1117&title_color=8C43EA&icon_color=8C43EA&text_color=C9D1D9" alt="GitHub stats"/>
   </a>
 </p>
 
-## 🚀 About Me
-
-I'm a multidisciplinary expert with a passion for technology and security. My expertise spans across various domains, allowing me to create innovative and secure solutions.
-
-- 🌱 I'm currently learning: NLP, Rust, Reverse Engineering, Cyber Security
-- 👯 I'm collaborating on: Various open-source projects
-- 💬 Ask me about: Fullstack Development, Cyber Security, AI/ML, DevOps
-
-## 🛡️ My Specializations
-
-- Fullstack Website Development
-- Cyber Security
-- Malware Development
-- Fullstack Mobile Development
-- DevOps
-- Machine Learning & Deep Learning
-- Penetration Testing
-- Database Optimization
-
-## 🌟 My Skills
-
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![](https://img.shields.io/badge/-GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
-![](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![](https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
-![](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhanhRomVN&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhRomVN&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🌐 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhRomVN&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## ⏱️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2023%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                611 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌆 Daytime                608 commits         ████████░░░░░░░░░░░░░░░░░   30.08 % 
-🌃 Evening                748 commits         █████████░░░░░░░░░░░░░░░░   37.01 % 
-🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               13 repos            █████████████░░░░░░░░░░░░   52.00 % 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/KhanhRomVN/KhanhRomVN/main/assets/bar_graph.png)
-
-
- Last Updated on 29/09/2026 04:24:27 UTC
-<!--END_SECTION:waka-->
-
 ## 🤝 Let's Connect
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+Open to collaboration, security research discussions and interesting engineering problems.
 
-- 📧 Email: khanhromvn@gmail.com
-- 💼 LinkedIn: [Khanh Rom](https://www.linkedin.com/in/khanh-romvn-247866221)
-- 🌐 Facebook: [facebook.com/khanhromvn](https://www.facebook.com/khanhromvn)
+📧 [khanhromvn@gmail.com](mailto:khanhromvn@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/khanh-romvn-247866221) · 🌐 [Facebook](https://www.facebook.com/khanhromvn)
 
+<p align="center">
+  <sub>Built with care · Updated 2026</sub>
+</p>
